@@ -1,0 +1,2 @@
+# specification_document
+仕様書をMarkDownで作成する試み
